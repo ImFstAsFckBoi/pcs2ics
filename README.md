@@ -1,4 +1,4 @@
-# ics2pcs - Export PCS (procyclingstats.com) calendar search as an ics file
+# pcs2ics - Export PCS (procyclingstats.com) calendar search as an ics file
 
 Small script i made because i couldn't find any good alternative.
 
